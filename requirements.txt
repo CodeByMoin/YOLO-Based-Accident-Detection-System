@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+cvzone
+numpy
+sort
